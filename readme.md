@@ -14,3 +14,9 @@ npm start
 
 ## Author
 D.Revanth
+
+## Version
+1.0.0
+
+## License
+This project is licensed under the ISC License
