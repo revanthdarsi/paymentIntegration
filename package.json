@@ -1,0 +1,28 @@
+{
+  "name": "paymentintegration",
+  "version": "1.0.0",
+  "description": "How to make paypal payment integration using node and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revanthdarsi/paymentIntegration.git"
+  },
+  "author": "D.Revanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revanthdarsi/paymentIntegration/issues"
+  },
+  "homepage": "https://github.com/revanthdarsi/paymentIntegration#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.5",
+    "nodemon": "^2.0.13",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
